@@ -57,3 +57,7 @@ My goal is not simply to prepare for the CCNA certification, but to build the re
 ## Repository Status
 
 🚧 This portfolio is actively being developed as I continue expanding my networking knowledge and practical experience.
+
+---
+
+> *"The goal of this portfolio is not to demonstrate perfection, but to document continuous learning, problem-solving, and growth as a future Network Engineer."*
