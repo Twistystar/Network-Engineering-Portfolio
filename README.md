@@ -1,18 +1,13 @@
 # Network Engineering Portfolio #
 
-Welcome!
+Hello! I'm Christopher Simpson.
 
-This repository documents my journey toward becoming a Network Engineer.
+I'm currently pursuing a career in Network Engineering. 
 
-It contain:
+This repository documents my hands-on networking journey as I build practical experience through labs, troubleshooting exercises, and real-world networking projects.
 
-- Packet Tracer Labs
-- Network Diagrams
-- Troubleshooting Documentation
-- Configuration Files
-- Lessons Learned
-- CCNA Practice Labs
-- Home Lab Projects
+The goal of this repository is not simply to study for the CCNA, but to develop the practical skills expected of a Network Engineer.
+
 
 ## Current Progress
 
@@ -20,8 +15,13 @@ It contain:
 
 ## Goals
 
-- Earn CCNA
-- Build enterprise networking skills
+- Build enterprise-style Packet Tracer labs
+- Document troubleshooting processes
+- Develop professional documentation habits
 - Learn Linux
 - Learn Cloud Networking
+- Continue adding projects beyond the CCNA
+- Practice interview scenarios
 - Obtain a Network Engineering position
+
+
